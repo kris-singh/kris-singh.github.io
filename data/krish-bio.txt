@@ -1,0 +1,2 @@
+Krishnakant is a Ph.D. student at the VisInf group at TU Darmstadt, where he works on computer vision and machine learning. Previously, he was a research scientist at Rakuten Institute of Technology for three years, where he worked on object detection, retrieval, and recommendation for fashion images. 
+He graduated from IIT Hyderabad in 2018, where I worked closely under the guidance of Dr. Vineeth N Balasubramanian advised him.
